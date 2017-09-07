@@ -2,32 +2,19 @@
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+The objective is to predict the Daily Energy Consumption for a building along with the abnormality in the energy consumption on daily basis and creating alert for the same using Microsoft Azure ML studio
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Microsoft Azure ML studio subscription
 
-```
-Give examples
-```
+
+
 
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running
+Get the experiement from gallery and perform documented steps
 
-Say what the step will be
 
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
 
